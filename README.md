@@ -1,3 +1,5 @@
+Task: City Analysis
+
 Objective:
 Identify the city with the highest number of restaurants,
 calculate average ratings per city, and determine the top-rated city.
