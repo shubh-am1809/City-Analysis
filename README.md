@@ -1,15 +1,15 @@
-Task: City Analysis
+# Task: City Analysis
 
-Objective:
+# Objective:
 Identify the city with the highest number of restaurants,
 calculate average ratings per city, and determine the top-rated city.
 
-Approach:
+# Approach:
 - Counted number of restaurants per city
 - Calculated average restaurant ratings by city
 - Identified the city with the highest average rating
 
-Conclusion:
+# Conclusion:
 While some cities have a high number of restaurants,
 others achieve higher average ratings, reflecting differences
 in competition and customer satisfaction.
